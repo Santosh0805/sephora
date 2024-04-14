@@ -609,56 +609,15 @@ text-align: center;
     top: 100px;
   }
   
-  .next_btn {
-    bottom: 0;
-    margin-top: 25px;
-    position: absolute;
-    right: 5px;
-    top: 100px;
-  }
-  
-  .previous_btn, .next_btn {
-    cursor: pointer;
-    height: 65px;
-    opacity: 0.5;
-    -webkit-transition: opacity 0.4s ease-in-out;
-    -moz-transition: opacity 0.4s ease-in-out;
-    -ms-transition: opacity 0.4s ease-in-out;
-    -o-transition: opacity 0.4s ease-in-out;
-    transition: opacity 0.4s ease-in-out;
-    width: 65px;
-  }
-  
-  .previous_btn:hover, .next_btn:hover {
-    opacity: 1;
-  }
-  
-  @media only screen and (max-width: 767px) {
-    .previous_btn {
-      left: 50px;
-    }
-    .next_btn {
-      right: 50px;
-    }
-  }
 
-  #playvideo{
-    border: 3px solid black;
-    margin-top: 40px;
-    margin-left: 25px;
-    width: 90%;
-  }
-  #Videop>p{
-    text-align: center;
-  }
-  .C4RAImage{
+  .Sephora{
     width: 90%;
     height: 170px;
     margin-top: 10px;
     margin-left: 30px;
     text-align: center;
   }
-  .C4RAImage>img{
+  .Sephora>img{
     width: 1200px;
     margin-top: 30px;
     margin-left: 70px;
